@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577488758703",
+    "project_id": "oikos-20587",
+    "storage_bucket": "oikos-20587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577488758703:android:afcd1e139483bd49bfb15a",
+        "android_client_info": {
+          "package_name": "com.example.oikos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577488758703-hbna1vqhkb4031ee2dm5eonsugm4qhvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3J4Gm53kFuQtkqnAVQC3kt5HpEyE5K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577488758703-hbna1vqhkb4031ee2dm5eonsugm4qhvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
